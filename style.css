@@ -1,0 +1,29 @@
+*{
+	font-family: sans-serif;
+}
+.error{
+	color:#f00;
+}
+nav{
+	background-color: black;
+	padding: 5px;
+}
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display: inline-block;
+}
+nav a, nav a:visited {
+	padding: 10px;
+	border:1px lightgray solid;
+	color: lightgray;
+	text-decoration: none;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
